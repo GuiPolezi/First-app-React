@@ -26,6 +26,7 @@ A mágica do React acontece na pasta src. Aqui estão os arquivos mais important
 ## 5. Apresente-se ao Mundo!
 Em App.jsx:
 
+```jsx
 import './App.css'
 
 function App() {
